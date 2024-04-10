@@ -21,9 +21,8 @@ Visual components and Python
 
 ## Program
 ```
-Name : M RAJESHKANNAN
-Reg No: 212221230081
-
+Developer: Ashwin Akash M
+Reference number: 212223230024
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 ser_time2=float(input("Enter the mean  inter service time of Lathe Machine 2 (in secs) :  "))
@@ -63,8 +62,8 @@ else:
 print("----------------------------------------------------------------------")
 ```
 ## Output
+![pro-6](https://github.com/AshwinAkash24/Open-Jacson-Networks/assets/144979248/464c2cc6-5d6d-4920-a375-a8ace0a1c8cd)
 
-![image](https://user-images.githubusercontent.com/94154791/206151786-75804dc6-6c51-47e2-baa7-6b1caaff8937.png)
 ## Result
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
 
